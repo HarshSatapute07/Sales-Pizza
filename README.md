@@ -5,7 +5,7 @@
 
 - The Sales Pizza Project analyzes pizza sales data to provide actionable insights into customer behavior, sales trends, and product performance for a pizza store chain.
 
--  Primary objectives:
+-  *Primary objectives*:
 
 - Optimize inventory and pizza preparation based on demand
 
@@ -18,7 +18,7 @@
 - The project uses transactional sales data, pizza menu details, and customer information to build a comprehensive data model.
 
  ## Methodology
- 1. Connecting and Shaping the Data
+ 1. *Connecting and Shaping the Data*
 
 - Data was collected from multiple sources including sales transactions, pizza menu, order details, and customer information.
 
@@ -26,7 +26,7 @@
 
 - Missing values, duplicates, and inconsistencies were handled to ensure accurate analysis.
 
-2. Building a Relational Model
+2. *Building a Relational Model*
 
 - A relational database model was created to structure the data efficiently.
 
@@ -42,7 +42,7 @@
 
 - Relationships were established between tables for analysis.
 
-3. Adding Calculated Fields
+3. *Adding Calculated Fields*
 
 - Using DAX in Power BI, calculated fields were added to provide insights:
 
@@ -52,7 +52,7 @@
 
 - Pizza Popularity = Total Orders per Pizza
 
-4. Designing an Interactive Report
+4. *Designing an Interactive Report*
 
 - An interactive Power BI dashboard was created for stakeholders.
 
@@ -69,7 +69,7 @@
 - Filters/Slicers – Date, Category, Pizza Size
 
 ## Report Details
-1. Home Performance:-
+1. *Home Performance:-*
    <img width="1071" height="582" alt="Screenshot 2026-03-01 202650" src="https://github.com/user-attachments/assets/fed27a10-1ad5-4218-82d3-c220b4d67e31" />
 
 
@@ -80,7 +80,7 @@
 
 - Highlights top-selling pizzas and weekly revenue trends.
 
-2. Best/Worst Sellers Details:-
+2. *Best/Worst Sellers Details:-*
     <img width="1064" height="581" alt="Screenshot 2026-03-01 202833" src="https://github.com/user-attachments/assets/495557ae-20a5-4408-8e97-641b6f4bd44a" />
 
 
