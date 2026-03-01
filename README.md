@@ -1,7 +1,7 @@
 # Sales-Pizza
 This project focuses on analyzing pizza sales data to generate meaningful business insights. The main objective is to understand sales performance, revenue trends, customer preferences, and product performance.
 
-#Project Overview
+# Project Overview
 
 The Sales Pizza Project analyzes pizza sales data to provide actionable insights into customer behavior, sales trends, and product performance for a pizza store chain.
 
@@ -17,8 +17,8 @@ The Sales Pizza Project analyzes pizza sales data to provide actionable insights
 
 -The project uses transactional sales data, pizza menu details, and customer information to build a comprehensive data model.
 
- ##Methodology
- 1. *Connecting and Shaping the Data
+ ## Methodology
+ 1. * Connecting and Shaping the Data
 
 -Data was collected from multiple sources including sales transactions, pizza menu, order details, and customer information.
 
@@ -68,7 +68,7 @@ The Sales Pizza Project analyzes pizza sales data to provide actionable insights
 
 -Filters/Slicers – Date, Category, Pizza Size
 
-##Report Details
+## Report Details
 1. *Home Performance
    <img width="1071" height="582" alt="Screenshot 2026-03-01 202650" src="https://github.com/user-attachments/assets/fed27a10-1ad5-4218-82d3-c220b4d67e31" />
 
@@ -90,7 +90,7 @@ The Sales Pizza Project analyzes pizza sales data to provide actionable insights
 
 -Slicers allow filtering by size, category, or price range for targeted analysis.
 
-##Tools
+## Tools
 
 -SQL – Data cleaning, transformation, and querying
 
@@ -106,7 +106,7 @@ The Sales Pizza Project analyzes pizza sales data to provide actionable insights
 
 -Gained insights into customer preferences for marketing strategies
 
-##Conclusion
+## Conclusion
 
 -This project demonstrates data-driven decision making for a pizza business:
 
