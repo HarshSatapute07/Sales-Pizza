@@ -69,7 +69,7 @@
 - Filters/Slicers – Date, Category, Pizza Size
 
 ## Report Details
-1. Home Performance
+1. Home Performance:-
    <img width="1071" height="582" alt="Screenshot 2026-03-01 202650" src="https://github.com/user-attachments/assets/fed27a10-1ad5-4218-82d3-c220b4d67e31" />
 
 
@@ -80,13 +80,13 @@
 
 - Highlights top-selling pizzas and weekly revenue trends.
 
-2. *Best/Worst Sellers Details
+2. Best/Worst Sellers Details:-
     <img width="1064" height="581" alt="Screenshot 2026-03-01 202833" src="https://github.com/user-attachments/assets/495557ae-20a5-4408-8e97-641b6f4bd44a" />
 
 
--Detailed view of individual pizza performance.
+- Detailed view of individual pizza performance.
 
- -Metrics include quantity sold, revenue contribution, and pricing trends.
+- Metrics include quantity sold, revenue contribution, and pricing trends.
 
 - Slicers allow filtering by size, category, or price range for targeted analysis.
 
