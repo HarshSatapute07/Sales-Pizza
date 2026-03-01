@@ -5,7 +5,7 @@
 
 - The Sales Pizza Project analyzes pizza sales data to provide actionable insights into customer behavior, sales trends, and product performance for a pizza store chain.
 
-*Primary objectives:
+-  Primary objectives:
 
 - Optimize inventory and pizza preparation based on demand
 
@@ -28,7 +28,7 @@
 
 2. Building a Relational Model
 
--A relational database model was created to structure the data efficiently.
+- A relational database model was created to structure the data efficiently.
 
 - Core tables include:
 
@@ -42,7 +42,7 @@
 
 - Relationships were established between tables for analysis.
 
-3. *Adding Calculated Fields
+3. Adding Calculated Fields
 
 - Using DAX in Power BI, calculated fields were added to provide insights:
 
